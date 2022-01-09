@@ -1,0 +1,46 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.Head{
+    width:1919px;
+    height:56px;
+    /* background-color:blue; */
+
+    padding:22px 0px;
+}
+.head-1{
+    width:1680px;
+    height:56px;
+    /* display:inline-block; */
+    /* background-color:crimson; */
+    margin:0 auto;
+    
+}
+
+.ul1{
+    list-style:none;
+    float:right;
+    
+}
+.li1{
+    float:left;
+    margin-right:60px;
+    line-height:56px;
+}
+
+.a1{ 
+    display:inline-block;
+    height:56px;
+    color:#409ad6;
+    text-decoration:none;
+}
+.ul1 img{
+    vertical-align:middle;
+    margin-right:5px;
+}
+.head-1 span{
+    vertical-align:middle;
+    font-size:22px;
+}
